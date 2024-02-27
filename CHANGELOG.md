@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/danto133/design-system/compare/v1.1.1...v1.1.2) (2024-02-27)
+
+
+### Bug Fixes
+
+* update package-lock ([86437de](https://github.com/danto133/design-system/commit/86437de1bcd1b5a802a4939206e4be3d42a0d642))
+
 ## [1.1.1](https://github.com/danto133/design-system/compare/v1.1.0...v1.1.1) (2024-02-27)
 
 
