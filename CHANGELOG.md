@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/danto133/design-system/compare/v1.1.0...v1.1.1) (2024-02-27)
+
+
+### Bug Fixes
+
+* update registry in publishConfig ([adc8fc9](https://github.com/danto133/design-system/commit/adc8fc99bb62f9a4abb469633193746c2c21bd2c))
+
 # [1.1.0](https://github.com/danto133/design-system/compare/v1.0.0...v1.1.0) (2024-02-27)
 
 
