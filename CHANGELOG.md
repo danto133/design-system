@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/danto133/design-system/compare/v1.0.0...v1.1.0) (2024-02-27)
+
+
+### Features
+
+* add access public config ([563b30f](https://github.com/danto133/design-system/commit/563b30f9a128b1bc15b2804fcbba5058058c5339))
+
 # 1.0.0 (2024-02-27)
 
 
