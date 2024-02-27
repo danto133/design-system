@@ -23,8 +23,13 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.6",
+    "@semantic-release/gitlab": "^13.0.3",
+    "@semantic-release/npm": "^11.0.2",
+    "@semantic-release/release-notes-generator": "^12.1.0",
     "@types/node": "^20.11.20",
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
@@ -35,9 +40,30 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "glob": "^10.3.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "semantic-release": "^23.0.2",
     "typescript": "^5.2.2",
     "vite": "^5.1.4",
     "vite-plugin-dts": "^3.7.3",
     "vite-plugin-lib-inject-css": "^2.0.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danto133/design-system.git"
+  },
+  "keywords": [
+    "ui",
+    "design system"
+  ],
+  "author": "danto_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danto133/design-system/issues"
+  },
+  "homepage": "https://github.com/danto133/design-system#readme"
 }
